@@ -1,44 +1,24 @@
-* {
-  box-sizing: border-box; }
-
-body {
-  margin: 0;
-  font-family: 'Lucida Grande', Helvetica, Arial, sans-serif;
-  color: #333; }
-
-a,
-a:link,
-a:hover {
-  color: cornflowerblue;
-  text-decoration: none;
-  padding-bottom: 2px;
-  border-bottom: 1px solid transparent; }
-  a:hover,
-  a:link:hover,
-  a:hover:hover {
-    border-bottom-color: inherit; }
-
-.hidden,
-[hidden] {
-  display: none; }
-
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+}
 
 .hidden {
-  display: none; }
-
+  display: none;
+}
 .block {
-  background: #fdf9ef; }
+  background: #fdf9ef;
+}
 
 .margin26 {
-  margin: 26px; }
+  margin: 26px;
+}
 
 .align {
-  margin-top: 126px; }
+  margin-top: 126px;
+}
 
 h1 {
   font-family: Arial, Helvetica, sans-serif;
@@ -46,7 +26,8 @@ h1 {
   font-size: 32px;
   font-family: SFProDisplay-Bold;
   color: #c9c9c9;
-  text-align: left; }
+  text-align: left;
+}
 
 .h1_grey {
   font-family: Arial, Helvetica, sans-serif;
@@ -54,7 +35,8 @@ h1 {
   font-size: 32px;
   font-family: SFProDisplay-Bold;
   color: #3e3e3e;
-  text-align: left; }
+  text-align: left;
+}
 
 h2 {
   font-family: Arial, Helvetica, sans-serif;
@@ -63,7 +45,8 @@ h2 {
   font-family: SFProDisplay-Bold;
   color: #3e3e3e;
   text-align: left;
-  margin-top: 70px; }
+  margin-top: 70px;
+}
 
 input {
   width: 324px;
@@ -73,7 +56,8 @@ input {
   font-size: 16px;
   border: 1px solid #a7a7a7;
   border-radius: 8px;
-  margin: 6px; }
+  margin: 6px;
+}
 
 button {
   width: 324px;
@@ -88,13 +72,13 @@ button {
   font-family: SFProDisplay-Semibold;
   font-size: 16px;
   color: #ffffff;
-  letter-spacing: 0.03px; }
+  letter-spacing: 0.03px;
+}
 
 .copytext {
   font-family: SFProDisplay-regular;
   font-size: 16px;
   color: #a7a7a7;
   letter-spacing: 0.2px;
-  line-height: 22px; }
-
-/*# sourceMappingURL=style.css.map */
+  line-height: 22px;
+}
