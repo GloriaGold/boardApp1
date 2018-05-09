@@ -1,5 +1,5 @@
 <!-- 1. Login Screen -------------------------------------------------------------------------->
-<div class="container block">
+<div class="container block hidden">
     <img class="align" src="/img/boards_logo.svg" alt="Boards">
     <h2>🔐 Sign in</h2>
     <input type="input" placeholder="Your Name">
@@ -9,7 +9,7 @@
     <img src="./img/iPhone X/Keyboards/Light/Keyboard + Suggestions.svg" alt="">
 </div>
 <!-- 2. Overview ----------------------------------------------------------------------------->
-<div class="margin26 hidden">
+<div class="margin26" data-overview>
     <img src="./img/burger button.png" alt="">
     <hr>
     <h1>📌 Tasks & Issues</h1>
@@ -32,7 +32,7 @@
     <hr>
     <div>
         <img src="./img/plus.png" alt="">
-        <div class="copytext">Add new List</div>
+        <button class="copytext" data-button> Add new List</button>
     </div>
 </div>
 <!-- 3. New Board List -->

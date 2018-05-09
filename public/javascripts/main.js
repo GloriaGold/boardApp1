@@ -1,10 +1,10 @@
-import Header from './Header.js'
-const header = new Header('[data-module-header]')
+//import Header from './Header.js'
+//const header = new Header('[data-module-header]')
 
 import { $, $$ } from './utils/helpers.js'
 
-const button = $('.js-button')
-const frontpage = $('#frontpage')
+const button = $('[data-button]')
+const frontpage = $('[data-overview]')
 const newBoard = $('#newBoard')
 
 button.addEventListener('click', event => {
