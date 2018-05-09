@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lucida Grande', Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+a,
+a:link,
+a:hover {
+  color: cornflowerblue;
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+
+  &:hover {
+    border-bottom-color: inherit;
+  }
+}

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="333px" viewBox="0 0 375 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone X/Keyboards/Light/Keyboard + Suggestions</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.5" y="0" width="87.5" height="42" rx="5"></rect>
+        <filter x="-0.6%" y="-1.2%" width="101.1%" height="104.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="184" height="42" rx="5"></rect>
+        <filter x="-0.3%" y="-1.2%" width="100.5%" height="104.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="87" height="42" rx="5"></rect>
+        <filter x="-0.6%" y="-1.2%" width="101.1%" height="104.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="42" height="42" rx="5"></rect>
+        <filter x="-1.2%" y="-1.2%" width="102.4%" height="104.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="0" y="-7.62938726e-08" width="42" height="42" rx="5"></rect>
+        <filter x="-1.2%" y="-1.2%" width="102.4%" height="104.8%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="0" y="-7.62938726e-08" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0.5" y="-7.62938726e-08" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="0" y="-7.62938726e-08" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="0.5" y="-7.62938726e-08" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="0" y="-7.62938726e-08" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="0" y="-7.62938726e-08" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-37" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-41" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-45" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-53" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-54">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-55" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-56">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-57" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="0.5" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-60">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="31.5" height="42" rx="5"></rect>
+        <filter x="-1.6%" y="-1.2%" width="103.2%" height="104.8%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-Screen" transform="translate(0.000000, -479.000000)">
+            <g id="iPhone-X/Keyboards/Light/Keyboard-+-Suggestions" transform="translate(0.000000, 479.000000)">
+                <rect id="Background" fill-opacity="0.9" fill="#D2D5DB" fill-rule="evenodd" x="0" y="42" width="375" height="291"></rect>
+                <g id="iPhone-X/Home-Indicator/Home-Indicator---On-Light" transform="translate(0.000000, 299.000000)" fill="#000000" fill-rule="evenodd">
+                    <rect id="Rectangle-24" x="121" y="20" width="134" height="5" rx="2.5"></rect>
+                </g>
+                <path d="M341.466672,307.996741 L341.466672,307.997395 L333.530006,307.997395 L333.530006,307.996865 C333.520049,307.997218 333.510048,307.997395 333.500006,307.997395 C333.039768,307.997395 332.666672,307.624299 332.666672,307.164062 C332.666672,306.703825 333.039768,306.330729 333.500006,306.330729 C333.510048,306.330729 333.520049,306.330906 333.530006,306.331259 L333.530006,306.320729 L336.676672,306.320729 L336.676672,303.787395 C332.867272,303.344685 329.995368,300.115765 330.000006,296.280729 C330.000006,296.244062 330.005672,296.210729 330.006339,296.177395 L330.006339,294.267311 C330.002159,294.233481 330.000006,294.199023 330.000006,294.164062 C330.000006,293.703825 330.373102,293.330729 330.833339,293.330729 C331.293576,293.330729 331.666672,293.703825 331.666672,294.164062 C331.666672,294.191789 331.665318,294.219201 331.662672,294.246233 L331.662672,296.540729 L331.658339,296.540729 L331.658339,296.547395 C331.658339,296.577395 331.662339,296.607395 331.662672,296.637395 L331.662672,296.950729 L331.678339,296.950729 C331.926038,299.91443 334.351422,302.224388 337.323672,302.327395 L337.660339,302.327395 C340.633541,302.226086 343.060257,299.915405 343.307006,296.950729 L343.327006,296.950729 L343.327006,294.174062 L343.333397,294.174019 C343.333358,294.170704 343.333339,294.167385 343.333339,294.164062 C343.333339,293.703825 343.706435,293.330729 344.166672,293.330729 C344.62691,293.330729 345.000006,293.703825 345.000006,294.164062 C345.000006,294.188049 344.998992,294.2118 344.997006,294.235274 L344.997006,296.280729 L344.987006,296.280729 L344.986672,296.280729 C344.989288,300.108966 342.127971,303.334035 338.326672,303.787395 L338.326672,306.320729 L341.466672,306.320729 L341.466672,306.331383 C341.477729,306.330948 341.488842,306.330729 341.500006,306.330729 C341.960243,306.330729 342.333339,306.703825 342.333339,307.164062 C342.333339,307.624299 341.960243,307.997395 341.500006,307.997395 C341.488842,307.997395 341.477729,307.997176 341.466672,307.996741 Z M341.993339,294.877395 C341.993339,295.380729 341.993339,295.910729 341.966672,296.414062 C341.946202,296.86796 341.876914,297.318334 341.760006,297.757395 C341.499136,298.678958 340.942863,299.48936 340.176672,300.064062 C338.605134,301.304003 336.38821,301.304003 334.816672,300.064062 C334.048488,299.49114 333.491527,298.680077 333.232672,297.757395 C333.115227,297.318458 333.04604,296.868013 333.026339,296.414062 C332.997339,295.910729 333.000006,295.380729 333.000006,294.877395 L333.000006,290.664062 C333.000006,290.164062 333.002672,287.954062 333.000006,287.580729 C333.01318,287.1241 333.091757,286.67172 333.233339,286.237395 C333.766979,284.323703 335.510302,283 337.497006,283 C339.483709,283 341.227033,284.323703 341.760672,286.237395 C341.885989,286.675604 341.96421,287.125929 341.994006,287.580729 C342.024006,288.084062 341.994006,290.164062 341.994006,290.664062 L341.994006,294.877395 L341.993339,294.877395 Z M340.326672,295.664062 C340.326672,295.984062 340.320006,296.090729 340.300006,296.410729 C340.288503,296.701311 340.244904,296.98973 340.170006,297.270729 C340.010364,297.860716 339.662821,298.382616 339.180006,298.757395 C338.190729,299.526293 336.805949,299.526293 335.816672,298.757395 C335.331985,298.383716 334.983077,297.861526 334.823339,297.270729 C334.750055,296.989396 334.706483,296.701152 334.693339,296.410729 C334.676672,296.090729 334.673339,295.984062 334.673339,295.664062 C334.673339,291.230729 334.653339,287.944062 334.680006,287.590729 C334.699288,287.300035 334.747299,287.011963 334.823339,286.730729 C334.983077,286.139931 335.331985,285.617741 335.816672,285.244062 C336.805949,284.475164 338.190729,284.475164 339.180006,285.244062 C339.662821,285.618842 340.010364,286.140742 340.170006,286.730729 C340.254684,287.010668 340.308339,287.299066 340.330006,287.590729 C340.353339,287.970729 340.326672,291.217395 340.326672,295.664062 Z" id="Dictation" fill="#50555C" fill-rule="evenodd"></path>
+                <path d="M37.25,282 C44.5677729,282 50.5,287.932227 50.5,295.25 C50.5,302.567773 44.5677729,308.5 37.25,308.5 C29.9322271,308.5 24,302.567773 24,295.25 C24,287.932227 29.9322271,282 37.25,282 Z M37.25,283.543625 C43.7150799,283.544357 48.9555378,288.785803 48.95505,295.250883 C48.9545621,301.715963 43.7133133,306.956619 37.2482334,306.956375 C30.7831535,306.956131 25.5423,301.71508 25.5423,295.25 C25.5423878,292.145074 26.7759446,289.167362 28.9715833,286.971971 C31.167222,284.776581 34.1450737,283.543361 37.25,283.543625 Z M33.0583625,289.502812 C32.64882,289.497933 32.2544257,289.657489 31.9634794,289.945758 C31.6725331,290.234027 31.5093379,290.62693 31.5104313,291.0365 C31.5104313,291.891399 32.2034637,292.584431 33.0583625,292.584431 C33.9132613,292.584431 34.6062938,291.891399 34.6062938,291.0365 C34.6073871,290.62693 34.4441919,290.234027 34.1532456,289.945758 C33.8622993,289.657489 33.467905,289.497933 33.0583625,289.502813 Z M46.0801312,297.532312 C45.3745688,301.345 41.6947125,304.528312 37.2483437,304.528312 C32.8374187,304.528312 29.1790937,301.391375 28.432125,297.62175 C28.2807438,296.681 29.0512313,296.459062 29.777,296.634625 C32.2049194,297.336643 34.7228025,297.678165 37.25,297.64825 C39.7714848,297.677485 42.283647,297.337099 44.7064375,296.637937 C45.412,296.459063 46.1675812,296.661125 46.0801312,297.532312 Z M43.6848625,298.062312 C43.6159625,298.088812 43.5460688,298.108687 43.4755125,298.131875 C43.468225,298.135187 43.701425,298.059 43.6944688,298.062312 C41.5994129,298.639068 39.43378,298.918944 37.2609313,298.89375 C34.6679063,298.89375 32.348825,298.605562 30.7528625,298.0325 C29.5958063,297.688 29.8177438,299.049437 30.6309625,299.466812 C32.7113906,300.413917 34.9748865,300.89118 37.2606,300.864687 C39.9795,300.864687 42.4022625,300.232 44.0025313,299.413812 C44.7597688,298.926875 44.9094938,297.62175 43.6848625,298.062312 Z M41.45025,289.502812 C41.0406773,289.497934 40.6462495,289.65748 40.3552509,289.945739 C40.0642522,290.233998 39.900983,290.626899 39.9019875,291.0365 C39.893818,291.594979 40.1870838,292.114566 40.6694248,292.39619 C41.1517659,292.677814 41.7484029,292.677814 42.2307439,292.39619 C42.713085,292.114566 43.0063508,291.594979 42.9981813,291.0365 C42.9991846,290.626958 42.8359607,290.234108 42.5450342,289.945858 C42.2541076,289.657609 41.8597657,289.498023 41.45025,289.502813 Z" id="Emoji" fill="#50555C" fill-rule="evenodd"></path>
+                <g id="Keyboards/Light/Uppercase" stroke-width="1" fill-rule="evenodd" transform="translate(3.000000, 52.000000)">
+                    <g id="Bottom-Row" transform="translate(0.000000, 160.000000)">
+                        <g id="Overrides/Keyboard/Key/Light" transform="translate(281.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill-opacity="0.5" fill="#ABB3BD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <use fill-opacity="0.5" fill="#000000" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-1"></use>
+                                <use fill-opacity="0.100000001" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-1"></use>
+                            </g>
+                            <text id="return" font-family="SFProText-Regular, SF Pro Text" font-size="16" font-weight="normal" letter-spacing="-0.32" fill="#030303">
+                                <tspan x="22.0889063" y="25.5">return</tspan>
+                            </text>
+                        </g>
+                        <g id="Space" transform="translate(92.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <text id="space" font-family="SFProText-Regular, SF Pro Text" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#030303">
+                                <tspan x="70.1165625" y="26">spac</tspan>
+                                <tspan x="104.742813" y="26">e</tspan>
+                            </text>
+                        </g>
+                        <g id="123">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill-opacity="0.5" fill="#ABB3BD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <use fill-opacity="0.5" fill="#000000" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-5"></use>
+                                <use fill-opacity="0.100000001" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-5"></use>
+                            </g>
+                            <text font-family="SFProText-Regular, SF Pro Text" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#030303">
+                                <tspan x="30.401875" y="27">123</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Third-Row" transform="translate(0.000000, 108.000000)">
+                        <g id="Delete" transform="translate(327.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill-opacity="0.5" fill="#ABB3BD" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                <use fill-opacity="0.5" fill="#000000" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-7"></use>
+                                <use fill-opacity="0.100000001" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-7"></use>
+                            </g>
+                            <path d="M10.0593445,22.0593445 C9.47428471,21.4742847 9.48135109,20.5186489 10.0593445,19.9406555 L16.7899148,13.2100853 C17.182084,12.817916 17.9489202,12.5 18.507484,12.5 L29.0020976,12.5 C30.933936,12.5 32.5000004,14.0688477 32.5000004,16.0017983 L32.5000004,25.9982017 C32.5000004,27.9321915 30.9230883,29.5 29.0020976,29.5 L18.5074839,29.5 C17.9510659,29.5 17.1771693,29.1771693 16.7899147,28.7899148 L10.0593445,22.0593445 Z M24.642663,20.9776903 L27.4667947,18.1535585 C27.7601056,17.8602476 27.7639833,17.3814962 27.4710901,17.088603 C27.1761549,16.7936677 26.7014001,16.7976328 26.4061346,17.0928983 L23.5820028,19.9170301 L20.757871,17.0928983 C20.4645602,16.7995874 19.9858087,16.7957097 19.6929155,17.088603 C19.3979803,17.3835382 19.4019454,17.858293 19.6972109,18.1535585 L22.5213426,20.9776903 L19.6972109,23.801822 C19.4039,24.0951329 19.4000223,24.5738843 19.6929155,24.8667776 C19.9878507,25.1617128 20.4626056,25.1577477 20.757871,24.8624822 L23.5820028,22.0383504 L26.4061346,24.8624822 C26.6994455,25.1557931 27.1781969,25.1596708 27.4710901,24.8667776 C27.7660253,24.5718423 27.7620602,24.0970875 27.4667947,23.801822 L24.642663,20.9776903 Z M11.7097195,21.7097195 C11.3177523,21.3177522 11.3189651,20.6810349 11.7097195,20.2902805 L17.6432454,14.3567547 C17.8402755,14.1597245 18.2256394,14 18.493741,14 L28.9972394,14 C30.1033332,14 30.9999994,14.8970601 30.9999994,16.0058586 L30.9999994,25.9941412 C30.9999994,27.1019464 30.1064568,27.9999999 28.9972394,27.9999999 L18.4937413,28 C18.2210556,28 17.8406433,27.8406431 17.6432456,27.6432453 L11.7097195,21.7097195 Z" id="Back" fill="#030303"></path>
+                        </g>
+                        <g id="M" transform="translate(281.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="6.69287109" y="29.25">M</tspan>
+                            </text>
+                        </g>
+                        <g id="N" transform="translate(244.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="7.70898438" y="29.25">N</tspan>
+                            </text>
+                        </g>
+                        <g id="B" transform="translate(206.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.54833984" y="29.25">B</tspan>
+                            </text>
+                        </g>
+                        <g id="V" transform="translate(169.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.49511719" y="29.25">V</tspan>
+                            </text>
+                        </g>
+                        <g id="C" transform="translate(131.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="7.8605957" y="29.25">C</tspan>
+                            </text>
+                        </g>
+                        <g id="X" transform="translate(93.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.70019531" y="29.25">X</tspan>
+                            </text>
+                        </g>
+                        <g id="Z" transform="translate(56.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.40795898" y="29.25">Z</tspan>
+                            </text>
+                        </g>
+                        <g id="Shift">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                            </g>
+                            <path d="M21.7052388,13.2052388 C21.3157462,12.8157462 20.6857559,12.8142441 20.2947612,13.2052388 L11.9160767,21.5839233 C11.1339991,22.3660009 11.3982606,23 12.4979131,23 L16.5,23 L16.5,28.009222 C16.5,28.5564136 16.9463114,29 17.4975446,29 L24.5024554,29 C25.053384,29 25.5,28.5490248 25.5,28.009222 L25.5,23 L29.5020869,23 C30.6055038,23 30.866824,22.366824 30.0839233,21.5839233 L21.7052388,13.2052388 Z" fill="#030303"></path>
+                        </g>
+                    </g>
+                    <g id="Second-Row" transform="translate(18.000000, 54.000000)">
+                        <g id="L" transform="translate(301.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.46923828" y="29.25">L</tspan>
+                            </text>
+                        </g>
+                        <g id="K" transform="translate(263.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.42480469" y="29.25">K</tspan>
+                            </text>
+                        </g>
+                        <g id="J" transform="translate(226.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.55615234" y="29.25">J</tspan>
+                            </text>
+                        </g>
+                        <g id="H" transform="translate(188.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.20898438" y="29.25">H</tspan>
+                            </text>
+                        </g>
+                        <g id="G" transform="translate(151.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="7.87475586" y="29.25">G</tspan>
+                            </text>
+                        </g>
+                        <g id="F" transform="translate(113.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.42993164" y="29.25">F</tspan>
+                            </text>
+                        </g>
+                        <g id="D" transform="translate(75.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.45043945" y="29.25">D</tspan>
+                            </text>
+                        </g>
+                        <g id="S" transform="translate(38.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.921875" y="29.25">S</tspan>
+                            </text>
+                        </g>
+                        <g id="A">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.99511719" y="29.25">A</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Top-Row">
+                        <g id="P" transform="translate(337.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.60717773" y="29.25">P</tspan>
+                            </text>
+                        </g>
+                        <g id="O" transform="translate(300.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-45"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="7.33837891" y="29.25">O</tspan>
+                            </text>
+                        </g>
+                        <g id="I" transform="translate(262.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="13.4169922" y="29.25">I</tspan>
+                            </text>
+                        </g>
+                        <g id="U" transform="translate(225.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-49"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="7.49267578" y="29.25">U</tspan>
+                            </text>
+                        </g>
+                        <g id="Y" transform="translate(187.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.45849609" y="29.25">Y</tspan>
+                            </text>
+                        </g>
+                        <g id="T" transform="translate(150.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-53"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-53"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="8.81787109" y="29.25">T</tspan>
+                            </text>
+                        </g>
+                        <g id="R" transform="translate(112.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-55"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.36010742" y="29.25">R</tspan>
+                            </text>
+                        </g>
+                        <g id="E" transform="translate(75.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="9.39916992" y="29.25">E</tspan>
+                            </text>
+                        </g>
+                        <g id="W" transform="translate(37.000000, 0.000000)">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="5.37597656" y="29.25">W</tspan>
+                            </text>
+                        </g>
+                        <g id="Q">
+                            <g id="Key">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-61"></use>
+                            </g>
+                            <text font-family="SFProDisplay-Regular, SF Pro Display" font-size="23" font-weight="normal" fill="#030303">
+                                <tspan x="7.33837891" y="29.25">Q</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Overrides/Keyboard/Light/Suggestion-Bar">
+                    <rect id="Bar" fill="#BBC2CA" fill-rule="evenodd" x="0" y="0" width="375" height="42"></rect>
+                    <rect id="Separators" fill="#D1D6DA" fill-rule="evenodd" x="124" y="0" width="1" height="42"></rect>
+                    <rect id="Right" fill="#D1D6DA" fill-rule="evenodd" x="250" y="0" width="1" height="42"></rect>
+                    <text id="I’m" font-family="SFProText-Regular, SF Pro Text" font-size="18" font-weight="normal" letter-spacing="-0.449999988" fill="#FFFFFF">
+                        <tspan x="300.277051" y="25.5">I’m</tspan>
+                    </text>
+                    <text id="the" font-family="SFProText-Regular, SF Pro Text" font-size="18" font-weight="normal" letter-spacing="-0.449999988" fill="#FFFFFF">
+                        <tspan x="174.420117" y="25.5">the</tspan>
+                    </text>
+                    <text id="I" font-family="SFProText-Regular, SF Pro Text" font-size="18" font-weight="normal" letter-spacing="-0.449999988" fill="#FFFFFF">
+                        <tspan x="60.3167969" y="25.5">I</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
