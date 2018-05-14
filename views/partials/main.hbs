@@ -1,16 +1,14 @@
 <!-- 1. Login Screen -------------------------------------------------------------------------->
-<div class="container block">
+<div class="container wrapper hidden">
     <img class="align" src="/img/boards_logo.svg" alt="Boards">
     <h2>🔐 Sign in</h2>
     <input type="input" placeholder="Your Name">
     <input type="input" placeholder="Password">
     <button>Continue</button>
-    <!-- ios Keyboard (nur Ansicht)-->
-    <img src="./img/iPhone X/Keyboards/Light/Keyboard + Suggestions.svg" alt="">
 </div>
 <!-- 2. Overview ----------------------------------------------------------------------------->
-<div class="margin26 hidden">
-    <img src="./img/burger button.png" alt="">
+<section class="">
+    <img src="./img/arrow.svg" alt="">
     <hr>
     <h1>📌 Tasks & Issues</h1>
     <div class="copytext">
@@ -31,29 +29,161 @@
     </div>
     <hr>
     <div>
-        <img src="./img/plus.png" alt="">
-        <div class="copytext">Add new List</div>
+        <img src="./img/plus.svg" alt="">
+        <span class="copytext">Add new List</span>
     </div>
-</div>
+</section>
 <!-- 3. New Board List ----------------------------------------------------------------------->
-<div class="margin26 hidden">
-    <img src="./img/burger button.png" alt="">
+<div class="hidden">
+    <img class="arrow-margin" src="./img/arrow.svg" alt="">
+    <span class="bc-text">Untitled</span>
     <hr>
-    <h1 class=".h1_grey">Untitled</h1>
+    <h1 class="h1_grey">Untitled</h1>
+    <div class="copytext margin-40">
+        Click ‘Add Item‘ to start a new Status.
+        <p>Click on a card to add more details.</p>
+    </div>
+    <div class="grid grid-margin">
+        <span class="copytext-bg">Next Up</span>
+        <span class="copytext copy-padding">(0)</span>
+        <img class="flex-end" src="./img/plus.svg" alt="">
+    </div>
+    <div class="grid grid-margin">
+        <span class="copytext-bg">In Progress</span>
+        <span class="copytext copy-padding">(0)</span>
+        <img class="flex-end" src="./img/plus.svg" alt="">
+    </div>
+    <div class="grid grid-margin">
+        <span class="copytext-bg">Completed</span>
+        <span class="copytext copy-padding">(0)</span>
+        <img class="flex-end" src="./img/plus.svg" alt="">
+    </div>
+    <div class="grid grid-margin">
+        <span class="copytext-bg">New Status</span>
+        <span class="copytext copy-padding">(0)</span>
+        <img src="./img/plus.svg" alt="">
+    </div>
+    <button>Build</button>
+</div>
+<!-- 4. Board List --------------------------------------------------------------------------->
+<section class="hidden">
+    <img class="arrow-margin" src="./img/arrow.svg" alt="">
+    <span class="bc-text">📌 Tasks & Issues</span>
+    <hr>
+    <h1>📌 Tasks & Issues</h1>
     <div class="copytext">
         Click ‘Add Item‘ to start a new Status.
         <p>Click on a card to add more details.</p>
     </div>
-</div>
-<!-- 4. Board List --------------------------------------------------------------------------->
-<div>
+    <hr>
+    <div class="grid grid-margin">
+        <img src="./img/boards-icon.svg" id="align-img" alt="">
+        <span class="h2">Boards by Status</span>
+        <span class="tagtext-bg-blue">+ Add Item</span>
+    </div>
 
-</div>
+    <form class="search-container copytext">
+        <input type="text" id="search-bar" placeholder="Search">
+        <a href="#">
+        </a>
+    </form>
+
+    <div class="grid grid-margin">
+        <span class="copytext-bg-next">Next Up</span>
+        <span class="copytext copy-padding">(1)</span>
+        <img class="flex-end" src="./img/plus.svg" alt="">
+    </div>
+    <div class="grid-board grid-margin box">
+        <h3 class="">✒️ Learn Sketch</h3>
+        <div class=""></div>
+        <span class="bc-text">May 07, 2018</span>
+    </div>
+    <hr>
+    <div class="grid grid-margin">
+        <span class="copytext-bg-inprogress">In Progress</span>
+        <span class="copytext copy-padding">(2)</span>
+        <img class="flex-end" src="./img/plus.svg" alt="">
+    </div>
+    <div class="grid-board grid-margin box">
+        <h3 class="">🖍 Learn Java Script</h3>
+        <div class=""></div>
+        <span class="bc-text">May 07, 2018</span>
+        <span class="bc-text">Tags:</span>
+        <div class=""></div>
+        <span class="tagtext-bg-important">🔥Important</span>
+    </div>
+    <div class="grid-board grid-margin box">
+        <h3 class="">💪 Learn HTML</h3>
+        <div class=""></div>
+        <span class="bc-text">May 07, 2018</span>
+    </div>
+    <hr>
+
+    <div class="grid grid-margin">
+        <span class="copytext-bg-completed">Completed</span>
+        <span class="copytext copy-padding">(1)</span>
+        <img class="flex-end" src="./img/plus.svg" alt="">
+    </div>
+    <div class="grid-board grid-margin box">
+        <h3 class="">🎉 Basics CSS & SASS</h3>
+        <div class=""></div>
+        <span class="bc-text">May 07, 2018</span>
+        <span class="bc-text">Tags:</span>
+        <div class=""></div>
+        <span class="tagtext-bg-nice">👍 Nice</span>
+    </div>
+</section>
 <!-- 5. New Board ---------------------------------------------------------------------------->
-<div>
-
+<div class="hidden">
+    <img class="arrow-margin" src="./img/arrow.svg" alt="">
+    <span class="bc-text">📌 Tasks & Issues /</span>
+    <span class="bc-text">Untitled</span>
+    <hr>
+    <span class="copytext-bg-next">Next Up</span>
+    <div class="grid-board grid-margin box">
+        <span class="h3-grey">Untitled</span>
+        <div class=""></div>
+        <span class="bc-text">May 07, 2018</span>
+        <span class="bc-text">Tags:</span>
+        <div class=""></div>
+        <span class="tagtext-bg">New</span>
+        <div>
+            <img class="" src="./img/plus.svg" alt="">
+            <span class="copytext">Add Links or Checklists</span>
+        </div>
+    </div>
+    <button>Build</button>
 </div>
 <!-- 6. Detail Board ------------------------------------------------------------------------->
-<div>
+<section class="hidden">
+    <img class="arrow-margin" src="./img/arrow.svg" alt="">
+    <span class="bc-text">📌 Tasks & Issues /</span>
+    <span class="bc-text">✒️ Learn java Script</span>
+    <hr>
+    <h1>✒️ Learn java Script</h1>
 
-</div>
+    <div class="copytext-bg-inprogress text-align margin-top">In Progress</div>
+
+    <div class="grid-board grid-margin box">
+        <h3 class="">🖍 Learn Java Script</h3>
+        <div class=""></div>
+        <span class="bc-text">May 07, 2018</span>
+        <span class="bc-text">Tags:</span>
+        <div class=""></div>
+        <span class="tagtext-bg-important">🔥Important</span>
+
+        <section>
+            <form class="task-form" action="">
+                <input placeholder="Insert TODO" type="text" class="task-form__input">
+                <button class="task-form__btn">Add</button>
+            </form>
+            <ul class="todo__placeholder"></ul>
+        </section>
+        <template class="template">
+            <li>
+                <input type="checkbox">
+                <span>####</span>
+            </li>
+        </template>
+    </div>
+</section>
