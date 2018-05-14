@@ -27,6 +27,7 @@
         Click ‘Add Item‘ to start a new Status.
         <p>Click on a card to add more details.</p>
     </div>
+
     <hr>
     <div>
         <img src="./img/plus.svg" alt="">
@@ -42,6 +43,50 @@
     <div class="copytext margin-40">
         Click ‘Add Item‘ to start a new Status.
         <p>Click on a card to add more details.</p>
+<div class="hidden js-newboard" id="newBoard">
+    <div class="margin26">
+        <hr>
+        <div class="copytext">
+            Click ‘Add Item‘ to start a new Status.
+            <p>Click on a card to add more details.</p>
+
+            <section>
+                <form class="task-form" action="">
+                    <!--- toggle funktion, dass wenn man auf Submit klickt, dass das input feld vrschwindet -->
+                    <input placeholder="Insert the title of your new board" type="text" class="task-form__input">
+                    <button>Add</button>
+                </form>
+                <ul class="todo__placeholder"></ul>
+            </section>
+            <template class="template">
+                <h1>
+                    <span>#value#</span>
+                    <!-- Merle muss den unterstrich wegstylen, der aufgrund des href kommt-->
+                    <h4>next up
+                        <a href="">
+                            <img src="./img/plus.png" alt="">
+                        </a>
+                    </h4>
+                    <h4>in progress
+                        <a href="">
+                            <img src="./img/plus.png" alt="">
+                        </a>
+                    </h4>
+                    <h4>complet
+                        <a href="">
+                            <img src="./img/plus.png" alt="">
+                        </a>
+                    </h4>
+                    <h4>new Status
+                        <a href="">
+                            <img src="./img/plus.png" alt="">
+                        </a>
+                    </h4>
+
+
+                </h1>
+            </template>
+        </div>
     </div>
     <div class="grid grid-margin">
         <span class="copytext-bg">Next Up</span>
@@ -154,7 +199,7 @@
     </div>
     <button>Build</button>
 </div>
-<!-- 6. Detail Board ------------------------------------------------------------------------->
+<!-- 6. Detail Board ------------------------------------------------------------------------->Y
 <section class="hidden">
     <img class="arrow-margin" src="./img/arrow.svg" alt="">
     <span class="bc-text">📌 Tasks & Issues /</span>
